@@ -20,7 +20,7 @@
 body {
   min-height: 100vh;
   background-image: url("europeana-5TK1F5VfdIk-unsplash.jpg");
-  background-size: center;
+  background-size: cover;
   background-repeat: no-repeat;
   font-family: "Inter", sans-serif;
   letter-spacing: -0.03em;
